@@ -20,6 +20,7 @@ body {
     font-size: 48px;
 }
 
+/* Used <em> for .seo and removed italics */
 .header h1 .seo {
     color: #d9dcd6;
     font-style: normal;
