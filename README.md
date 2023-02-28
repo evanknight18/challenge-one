@@ -11,6 +11,8 @@ The following image shows the web application's appearance and functionality:
 
 ![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](01-html-css-git-homework-demo.png)
 
+After all elements were changed to proper semantic with CSS adjusted, the app's functionality remained identical.
+
 ## License
 
 Please refer to the LICENSE in the repo.
